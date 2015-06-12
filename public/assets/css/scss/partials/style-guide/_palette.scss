@@ -7,15 +7,30 @@
 
 
 // BACKGROUND COLORS
+.bg-primarylight { background-color: $primarylight; }
+.bg-primarydark { background-color: $primarydark; }
+
+.bg-primarygrey { background-color: $primarygrey; }
+
 .bg-white { background-color: $white; }
-.bg-black { background-color: $black; }
 .bg-black5 { background-color: $black5; }
 .bg-black10 { background-color: $black10; }
-.bg-primarylighthover { background-color: $primarylighthover; }
-.bg-primarydark { background-color: $primarydark; }
-.bg-primarydarkhover { background-color: $primarydarkhover; }
-.bg-primarylight { background-color: $primarylight; }
+.bg-black20 { background-color: $black20; }
+.bg-black50 { background-color: $black50; }
+.bg-black70 { background-color: $black70; }
+.bg-black90 { background-color: $black90; }
+.bg-black { background-color: $black; }
+
 .bg-blue { background-color: $blue; }
-.bg-green { background-color: $green; }
 .bg-yellow { background-color: $yellow; }
-.bg-primarygrey { background-color: $primarygrey; }
+.bg-red { background-color: $red; }
+.bg-orange { background-color: $orange; }
+.bg-green { background-color: $green;}
+
+.bg-primarylighthover { background-color: $primarylighthover; }
+.bg-primarydarkhover { background-color: $primarydarkhover; }
+.bg-bluehover { background-color: $bluehover; }
+.bg-yellowhover { background-color: $yellowhover; }
+.bg-redhover { background-color: $redhover; }
+.bg-orangehover { background-color: $orangehover; }
+.bg-greenhover { background-color: $greenhover;}
